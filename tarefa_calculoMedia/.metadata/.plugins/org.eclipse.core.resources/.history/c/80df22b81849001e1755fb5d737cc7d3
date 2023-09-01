@@ -22,7 +22,7 @@ public class CalcMedia {
 				
 			int Media4 = sc.nextInt();
 			
-				float calculoMedia = ((Media1 + Media2 + Media3 + Media4)/4) ;
+				float calculoMedia = ((Media1 + Media2 + Media3 + Media4)/2) ;
 				
 			System.out.println("A media das quatro notas é: " + calculoMedia);
 			
