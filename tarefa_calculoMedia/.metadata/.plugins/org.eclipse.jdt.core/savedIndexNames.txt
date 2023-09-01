@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/fuyuki/Desktop/ebac_Java/tarefa_calculoMedia/.metadata/.plugins/org.eclipse.jdt.core
+1492389189.index
+1989741164.index
+1865797976.index
